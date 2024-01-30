@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace dbd_evo
 {
-    public partial class Form1 : Form
+    public partial class dominanceButton : Form
     {
-        public Form1()
+        public dominanceButton()
         {
             InitializeComponent();
+        }
+
+        private void generateButton_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
