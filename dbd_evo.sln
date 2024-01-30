@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbd_evo", "dbd_evo.csproj", "{4DB1167D-C9B2-4F38-9B9D-17BEE0442D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB1167D-C9B2-4F38-9B9D-17BEE0442D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB1167D-C9B2-4F38-9B9D-17BEE0442D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB1167D-C9B2-4F38-9B9D-17BEE0442D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB1167D-C9B2-4F38-9B9D-17BEE0442D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A88BD5-F9F3-4B81-A3C3-C8D396A65310}
+	EndGlobalSection
+EndGlobal
